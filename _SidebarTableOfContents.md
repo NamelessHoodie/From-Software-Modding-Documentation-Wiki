@@ -1,6 +1,5 @@
 # Table of contents
 
-***
 * Dark Souls 1 - PTDE
 ***
 * Dark Souls 1 - Remastered
@@ -16,7 +15,4 @@
 [File Types](https://github.com/NamelessHoodie/From-Software-Modding-Documentation/wiki/File-Types)
 ***
 * Sekiro - Shadows Die Twice
-
-
-***
 
