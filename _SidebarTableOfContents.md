@@ -12,6 +12,7 @@
 * Bloodborne - PS4
 ***
 * Dark Souls 3
+
 [File Types](https://github.com/NamelessHoodie/From-Software-Modding-Documentation/wiki/File-Types)
 ***
 * Sekiro - Shadows Die Twice
